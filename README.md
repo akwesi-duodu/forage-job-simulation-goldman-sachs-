@@ -1,2 +1,3 @@
-# forage-job-simulation-goldman-sachs-
-forage job simulation(goldman sachs)||software engineering
+# forage-job-simulation
+
+forage job simulation(accenture)||software engineering
