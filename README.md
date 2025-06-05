@@ -14,3 +14,6 @@ Core Activities to perform
 Analyze the client's current technical requirements against their new request 
 Identify missing key aspects of the infrastructure system
 Based on the technical requirements and current infrastructure system, recommend an appropriate cloud-based solution for Digital Health
+ 
+ 
+resources:https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcdn.theforage.com%2Fvinternships%2Fcompanyassets%2Fxhih9yFWsf6AYfngd%2FFdzpifqhgauZCbxQ7%2F1717701201704%2FDigital%2520Health%27s%2520new%2520technical%2520requirements.docx&wdOrigin=BROWSELINK
