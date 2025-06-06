@@ -17,3 +17,12 @@ Based on the technical requirements and current infrastructure system, recommend
  
  
 resources:https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcdn.theforage.com%2Fvinternships%2Fcompanyassets%2Fxhih9yFWsf6AYfngd%2FFdzpifqhgauZCbxQ7%2F1717701201704%2FDigital%2520Health%27s%2520new%2520technical%2520requirements.docx&wdOrigin=BROWSELINK
+
+https://view.officeapps.live.com/op/view.aspx?
+src=https%3A%2F%2Fcdn.theforage.com%2Fvinternships%2Fcompanyassets%2Fxhih9yFWsf6AYfngd%2FFdzpifqhgauZCbxQ7%2F1717704705839%2FNIST%2520cybersecurity%2520framework.docx&wdOrigin=BROWSELINK
+
+https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcdn.theforage.com%2Fvinternships%2Fcompanyassets%2Fxhih9yFWsf6AYfngd%2FFdzpifqhgauZCbxQ7%2F1717704705839%2FNIST%2520cybersecurity%2520framework.docx&wdOrigin=BROWSELINK
+
+https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcdn.theforage.com%2Fvinternships%2Fcompanyassets%2Fxhih9yFWsf6AYfngd%2FFdzpifqhgauZCbxQ7%2F1717721451154%2FExample%2520Unit%2520Test.docx&wdOrigin=BROWSELINK
+
+https://cdn.theforage.com/vinternships/companyassets/xhih9yFWsf6AYfngd/FdzpifqhgauZCbxQ7/1717721426328/Unit%20Testing%20#1%20Code.docx
